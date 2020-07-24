@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.Inside-crab-nebula-skybox",
+  "display_name": "Inside Crab Nebula Skybox",
+  "description": "System is located inside the Crab Nebula with the Milky Way galaxy in the distance",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-24",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/crab-nebula-skybox.72687/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/Inside_Crab_Nebula_Skybox-Icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.Inside-crab-nebula-skybox/settings.js"
+      ]
+  }
+}
